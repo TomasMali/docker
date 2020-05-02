@@ -1,0 +1,23 @@
+Sending build context to Docker daemon  291.1MB
+Step 1/7 : FROM node:latest as node
+latest: Pulling from library/node
+99760bc62448: Pulling fs layer
+e3fa264a7a88: Pulling fs layer
+a222a2af289f: Pulling fs layer
+c1f89293f045: Pulling fs layer
+115b6fc5ace1: Pulling fs layer
+9eb516295c24: Pulling fs layer
+d23358c1492a: Pulling fs layer
+08d6736f797a: Pulling fs layer
+3dcecd6cc67a: Pulling fs layer
+c1f89293f045: Waiting
+115b6fc5ace1: Waiting
+9eb516295c24: Waiting
+d23358c1492a: Waiting
+08d6736f797a: Waiting
+3dcecd6cc67a: Waiting
+a222a2af289f: Verifying Checksum
+a222a2af289f: Download complete
+e3fa264a7a88: Download complete
+c1f89293f045: Verifying Checksum
+c1f89293f045: Download complete
